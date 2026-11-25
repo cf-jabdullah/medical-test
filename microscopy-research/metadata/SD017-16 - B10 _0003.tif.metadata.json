@@ -1,0 +1,1233 @@
+{
+  "source_dataset": "https://doi.org/10.7488/ds/2417",
+  "source_archive": "BA41_42_AD_and_control_cases.zip",
+  "source_archive_member": "BA41_42 AD and control cases/Raw images/SD017-16 - B10 _0003.dm3",
+  "source_format": "DM3",
+  "source_sha256": "d9976b2a31d0bb7079b5fc9366e98a608458b12b82a983d0d45f21e94af3d8dc",
+  "source_zip_crc32": "85691eec",
+  "output_filename": "Control/SD017-16 - B10 _0003.tif",
+  "output_sha256": "663aff6aa4c351c9a5c57e0697fff6c09e26ed9a7ba8cb2e8d6fd3d5733b502a",
+  "source_and_output_pixel_sha256": "5488fc319a642211b860feb8b9ee585343585dd9212c34bc1c76417dfc9d8527",
+  "pixel_data_exact_match": true,
+  "shape_yx": [
+    4089,
+    4090
+  ],
+  "dtype": "float32",
+  "bits_per_sample": 32,
+  "sample_format": "IEEE floating point",
+  "pixel_size_yx": [
+    0.0017567445756867528,
+    0.0017563150031492114
+  ],
+  "pixel_size_units_yx": [
+    "µm",
+    "µm"
+  ],
+  "pixel_origin_yx": [
+    0.0,
+    0.0
+  ],
+  "indicated_magnification": 6000.0,
+  "group_from_analysis_workbook": "Control",
+  "donor_identifier": "17-16",
+  "coded_case_from_analysis_workbook": "PQ",
+  "dm3_tags": {
+    ".ApplicationBounds": {
+      "dtype": "float64",
+      "shape": [
+        4
+      ],
+      "values": [
+        0.0,
+        0.0,
+        1011.0,
+        1982.0
+      ]
+    },
+    ".DocumentObjectList.1.AnnotationGroupList.1.AnnotationType": {
+      "dtype": "int32",
+      "value": 31
+    },
+    ".DocumentObjectList.1.AnnotationGroupList.1.BackgroundColor": {
+      "dtype": "float64",
+      "shape": [
+        3
+      ],
+      "values": [
+        -1.0,
+        -1.0,
+        -1.0
+      ]
+    },
+    ".DocumentObjectList.1.AnnotationGroupList.1.BackgroundMode": {
+      "dtype": "int16",
+      "value": 1
+    },
+    ".DocumentObjectList.1.AnnotationGroupList.1.FillMode": {
+      "dtype": "int16",
+      "value": 1
+    },
+    ".DocumentObjectList.1.AnnotationGroupList.1.Font.Attributes": {
+      "dtype": "uint32",
+      "value": 7
+    },
+    ".DocumentObjectList.1.AnnotationGroupList.1.Font.FamilyName": "Lucida Console",
+    ".DocumentObjectList.1.AnnotationGroupList.1.Font.Size": {
+      "dtype": "uint32",
+      "value": 18
+    },
+    ".DocumentObjectList.1.AnnotationGroupList.1.ForegroundColor": {
+      "dtype": "float64",
+      "shape": [
+        3
+      ],
+      "values": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    ".DocumentObjectList.1.AnnotationGroupList.1.HasBackground": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".DocumentObjectList.1.AnnotationGroupList.1.IsMoveable": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".DocumentObjectList.1.AnnotationGroupList.1.IsResizable": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".DocumentObjectList.1.AnnotationGroupList.1.IsSelectable": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".DocumentObjectList.1.AnnotationGroupList.1.IsTransferrable": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".DocumentObjectList.1.AnnotationGroupList.1.IsTranslatable": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".DocumentObjectList.1.AnnotationGroupList.1.IsVisible": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".DocumentObjectList.1.AnnotationGroupList.1.Rectangle": {
+      "dtype": "float64",
+      "shape": [
+        4
+      ],
+      "values": [
+        3706.642333984375,
+        255.5625,
+        3833.4375,
+        935.48486328125
+      ]
+    },
+    ".DocumentObjectList.1.AnnotationGroupList.1.TextOffsetH": {
+      "dtype": "float32",
+      "value": 1.0
+    },
+    ".DocumentObjectList.1.AnnotationGroupList.1.TextOffsetV": {
+      "dtype": "float32",
+      "value": 1.0
+    },
+    ".DocumentObjectList.1.AnnotationGroupList.1.TextWidth": {
+      "dtype": "float32",
+      "value": 210.48304748535156
+    },
+    ".DocumentObjectList.1.AnnotationGroupList.1.UniqueID": {
+      "dtype": "uint32",
+      "value": 10
+    },
+    ".DocumentObjectList.1.AnnotationType": {
+      "dtype": "int32",
+      "value": 20
+    },
+    ".DocumentObjectList.1.BackgroundColor": {
+      "dtype": "float64",
+      "shape": [
+        3
+      ],
+      "values": [
+        -1.0,
+        -1.0,
+        -1.0
+      ]
+    },
+    ".DocumentObjectList.1.BackgroundMode": {
+      "dtype": "int16",
+      "value": 2
+    },
+    ".DocumentObjectList.1.FillMode": {
+      "dtype": "int16",
+      "value": 1
+    },
+    ".DocumentObjectList.1.ForegroundColor": {
+      "dtype": "float64",
+      "shape": [
+        3
+      ],
+      "values": [
+        -1.0,
+        0.0,
+        0.0
+      ]
+    },
+    ".DocumentObjectList.1.HasBackground": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.BrightColor": {
+      "dtype": "float64",
+      "shape": [
+        3
+      ],
+      "values": [
+        -1.0,
+        -1.0,
+        -1.0
+      ]
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.Brightness": {
+      "dtype": "float32",
+      "value": 0.5
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.CaptionOn": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.CaptionSize": {
+      "dtype": "uint16",
+      "value": 10
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.CLUT.arraySize": {
+      "dtype": "uint64",
+      "value": 1536
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.CLUT.arrayOffset": 1424,
+    ".DocumentObjectList.1.ImageDisplayInfo.CLUT.arrayType": {
+      "dtype": "float64",
+      "value": 2.0
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.CLUT": "Array unread. Encoded type = 2.0",
+    ".DocumentObjectList.1.ImageDisplayInfo.CLUTName": "Greyscale",
+    ".DocumentObjectList.1.ImageDisplayInfo.ComplexMode": {
+      "dtype": "uint32",
+      "value": 4
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.ComplexRange": {
+      "dtype": "float32",
+      "value": 1000.0
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.Contrast": {
+      "dtype": "float32",
+      "value": 0.5
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.ContrastMode": {
+      "dtype": "uint32",
+      "value": 1
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.DiffractionMode": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.DimensionLabels.1": "",
+    ".DocumentObjectList.1.ImageDisplayInfo.DoAutoSurvey": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.EstimatedMax": {
+      "dtype": "float32",
+      "value": 21983.453125
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.EstimatedMaxTrimPercentage": {
+      "dtype": "float32",
+      "value": 0.009999999776482582
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.EstimatedMin": {
+      "dtype": "float32",
+      "value": 66234.4140625
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.EstimatedMinTrimPercentage": {
+      "dtype": "float32",
+      "value": 0.009999999776482582
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.Gamma": {
+      "dtype": "float32",
+      "value": 0.5
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.HighLimit": {
+      "dtype": "float32",
+      "value": 59957.60546875
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.HiLimitContrastDeltaTriggerPercentage": {
+      "dtype": "float32",
+      "value": 0.0010000000474974513
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.IsIgnoreGirdBar": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.IsInverted": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.LowLimit": {
+      "dtype": "float32",
+      "value": 44009.0
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.LowLimitContrastDeltaTriggerPercentage": {
+      "dtype": "float32",
+      "value": 0.0010000000474974513
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.MainSliceId.1": {
+      "dtype": "uint32",
+      "value": 0
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.MinimumContrast": {
+      "dtype": "float32",
+      "value": 0.0
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.RangeAdjust": {
+      "dtype": "float32",
+      "value": 1.0
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.SparseSurvey_GridSize": {
+      "dtype": "uint32",
+      "value": 16
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.SparseSurvey_NumberPixels": {
+      "dtype": "uint32",
+      "value": 32
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.SparseSurvey_UseNumberPixels": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".DocumentObjectList.1.ImageDisplayInfo.SurveyTechique": {
+      "dtype": "uint32",
+      "value": 1
+    },
+    ".DocumentObjectList.1.ImageDisplayType": {
+      "dtype": "int32",
+      "value": 1
+    },
+    ".DocumentObjectList.1.ImageSource": {
+      "dtype": "uint32",
+      "value": 0
+    },
+    ".DocumentObjectList.1.IsMoveable": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".DocumentObjectList.1.IsResizable": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".DocumentObjectList.1.IsSelectable": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".DocumentObjectList.1.IsTransferrable": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".DocumentObjectList.1.IsTranslatable": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".DocumentObjectList.1.IsVisible": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".DocumentObjectList.1.Rectangle": {
+      "dtype": "float64",
+      "shape": [
+        4
+      ],
+      "values": [
+        0.0,
+        0.0,
+        466.8858337402344,
+        467.0
+      ]
+    },
+    ".DocumentObjectList.1.UniqueID": {
+      "dtype": "uint32",
+      "value": 8
+    },
+    ".HasWindowPosition": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".Image Behavior.DoIntegralZoom": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".Image Behavior.ImageDisplayBounds": {
+      "dtype": "float64",
+      "shape": [
+        4
+      ],
+      "values": [
+        0.0,
+        0.0,
+        466.8858337402344,
+        467.0
+      ]
+    },
+    ".Image Behavior.IsZoomedToWindow": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".Image Behavior.UnscaledTransform.Offset": {
+      "dtype": "float64",
+      "shape": [
+        2
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    },
+    ".Image Behavior.UnscaledTransform.Scale": {
+      "dtype": "float64",
+      "shape": [
+        2
+      ],
+      "values": [
+        1.0,
+        1.0
+      ]
+    },
+    ".Image Behavior.ViewDisplayID": {
+      "dtype": "uint32",
+      "value": 8
+    },
+    ".Image Behavior.WindowRect": {
+      "dtype": "float64",
+      "shape": [
+        4
+      ],
+      "values": [
+        0.0,
+        0.0,
+        467.0,
+        467.0
+      ]
+    },
+    ".Image Behavior.ZoomAndMoveTransform.Offset": {
+      "dtype": "float64",
+      "shape": [
+        2
+      ],
+      "values": [
+        0.0,
+        0.0570831298828125
+      ]
+    },
+    ".Image Behavior.ZoomAndMoveTransform.Scale": {
+      "dtype": "float64",
+      "shape": [
+        2
+      ],
+      "values": [
+        1.0,
+        1.0
+      ]
+    },
+    ".ImageList.1.ImageData.Calibrations.Brightness.Origin": {
+      "dtype": "float32",
+      "value": 0.0
+    },
+    ".ImageList.1.ImageData.Calibrations.Brightness.Scale": {
+      "dtype": "float32",
+      "value": 1.0
+    },
+    ".ImageList.1.ImageData.Calibrations.Brightness.Units": "",
+    ".ImageList.1.ImageData.Calibrations.Dimension.1.Origin": {
+      "dtype": "float32",
+      "value": 0.0
+    },
+    ".ImageList.1.ImageData.Calibrations.Dimension.1.Scale": {
+      "dtype": "float32",
+      "value": 1.0
+    },
+    ".ImageList.1.ImageData.Calibrations.Dimension.1.Units": "",
+    ".ImageList.1.ImageData.Calibrations.Dimension.2.Origin": {
+      "dtype": "float32",
+      "value": 0.0
+    },
+    ".ImageList.1.ImageData.Calibrations.Dimension.2.Scale": {
+      "dtype": "float32",
+      "value": 1.0
+    },
+    ".ImageList.1.ImageData.Calibrations.Dimension.2.Units": "",
+    ".ImageList.1.ImageData.Calibrations.DisplayCalibratedUnits": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".ImageList.1.ImageData.Data.arraySize": {
+      "dtype": "uint64",
+      "value": 589824
+    },
+    ".ImageList.1.ImageData.Data.arrayOffset": 5280,
+    ".ImageList.1.ImageData.Data.arrayType": {
+      "dtype": "uint32",
+      "value": 3
+    },
+    ".ImageList.1.ImageData.Data": "Data unread. Encoded type = 3",
+    ".ImageList.1.ImageData.DataType": {
+      "dtype": "uint32",
+      "value": 23
+    },
+    ".ImageList.1.ImageData.Dimensions.1": {
+      "dtype": "uint32",
+      "value": 384
+    },
+    ".ImageList.1.ImageData.Dimensions.2": {
+      "dtype": "uint32",
+      "value": 384
+    },
+    ".ImageList.1.ImageData.PixelDepth": {
+      "dtype": "uint32",
+      "value": 4
+    },
+    ".ImageList.1.ImageTags.GMS Version.Created": "3.1.598.0",
+    ".ImageList.1.Name": "Image Of SD017-16 - B10 _0003",
+    ".ImageList.1.UniqueID.1": {
+      "dtype": "uint32",
+      "value": 1858346130
+    },
+    ".ImageList.1.UniqueID.2": {
+      "dtype": "uint32",
+      "value": 197460946
+    },
+    ".ImageList.1.UniqueID.3": {
+      "dtype": "uint32",
+      "value": 1054566698
+    },
+    ".ImageList.1.UniqueID.4": {
+      "dtype": "uint32",
+      "value": 1193371789
+    },
+    ".ImageList.2.ImageData.Calibrations.Brightness.Origin": {
+      "dtype": "float32",
+      "value": 0.0
+    },
+    ".ImageList.2.ImageData.Calibrations.Brightness.Scale": {
+      "dtype": "float32",
+      "value": 1.0
+    },
+    ".ImageList.2.ImageData.Calibrations.Brightness.Units": "",
+    ".ImageList.2.ImageData.Calibrations.Dimension.1.Origin": {
+      "dtype": "float32",
+      "value": 0.0
+    },
+    ".ImageList.2.ImageData.Calibrations.Dimension.1.Scale": {
+      "dtype": "float32",
+      "value": 0.0017563150031492114
+    },
+    ".ImageList.2.ImageData.Calibrations.Dimension.1.Units": "µm",
+    ".ImageList.2.ImageData.Calibrations.Dimension.2.Origin": {
+      "dtype": "float32",
+      "value": 0.0
+    },
+    ".ImageList.2.ImageData.Calibrations.Dimension.2.Scale": {
+      "dtype": "float32",
+      "value": 0.0017567445756867528
+    },
+    ".ImageList.2.ImageData.Calibrations.Dimension.2.Units": "µm",
+    ".ImageList.2.ImageData.Calibrations.DisplayCalibratedUnits": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".ImageList.2.ImageData.Data.arraySize": {
+      "dtype": "uint64",
+      "value": 66896040
+    },
+    ".ImageList.2.ImageData.Data.arrayOffset": 595888,
+    ".ImageList.2.ImageData.Data.arrayType": {
+      "dtype": "uint32",
+      "value": 6
+    },
+    ".ImageList.2.ImageData.Data": "Data unread. Encoded type = 6",
+    ".ImageList.2.ImageData.DataType": {
+      "dtype": "uint32",
+      "value": 2
+    },
+    ".ImageList.2.ImageData.Dimensions.1": {
+      "dtype": "uint32",
+      "value": 4090
+    },
+    ".ImageList.2.ImageData.Dimensions.2": {
+      "dtype": "uint32",
+      "value": 4089
+    },
+    ".ImageList.2.ImageData.PixelDepth": {
+      "dtype": "uint32",
+      "value": 4
+    },
+    ".ImageList.2.ImageTags.Acquisition.Device.Active Size (pixels)": {
+      "dtype": "float64",
+      "shape": [
+        2
+      ],
+      "values": [
+        4096.0,
+        4096.0
+      ]
+    },
+    ".ImageList.2.ImageTags.Acquisition.Device.Camera Number": {
+      "dtype": "uint32",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Device.CCD.Pixel Size (um)": {
+      "dtype": "float64",
+      "shape": [
+        2
+      ],
+      "values": [
+        15.0,
+        15.0
+      ]
+    },
+    ".ImageList.2.ImageTags.Acquisition.Device.Configuration.Transpose.Diagonal Flip": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Device.Configuration.Transpose.Horizontal Flip": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".ImageList.2.ImageTags.Acquisition.Device.Configuration.Transpose.Vertical Flip": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Device.Name": "OneView",
+    ".ImageList.2.ImageTags.Acquisition.Device.Source": "OneView",
+    ".ImageList.2.ImageTags.Acquisition.Device.Source ID": "OneView-33976380042",
+    ".ImageList.2.ImageTags.Acquisition.Device.Temperature (C)": {
+      "dtype": "float64",
+      "value": -4.90625
+    },
+    ".ImageList.2.ImageTags.Acquisition.Frame.Area.Transform.Class Name": "cm_acquisitiontransform_list",
+    ".ImageList.2.ImageTags.Acquisition.Frame.Area.Transform.Transform List.1.Binning": {
+      "dtype": "float64",
+      "shape": [
+        2
+      ],
+      "values": [
+        1.0,
+        1.0
+      ]
+    },
+    ".ImageList.2.ImageTags.Acquisition.Frame.Area.Transform.Transform List.1.Class Name": "cm_acquisitiontransform",
+    ".ImageList.2.ImageTags.Acquisition.Frame.Area.Transform.Transform List.1.Sub Area Adjust": {
+      "dtype": "float64",
+      "shape": [
+        4
+      ],
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    ".ImageList.2.ImageTags.Acquisition.Frame.Area.Transform.Transform List.1.Transpose.Diagonal Flip": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Frame.Area.Transform.Transform List.1.Transpose.Horizontal Flip": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".ImageList.2.ImageTags.Acquisition.Frame.Area.Transform.Transform List.1.Transpose.Vertical Flip": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Frame.CCD.Pixel Size (um)": {
+      "dtype": "float64",
+      "shape": [
+        2
+      ],
+      "values": [
+        15.0,
+        15.0
+      ]
+    },
+    ".ImageList.2.ImageTags.Acquisition.Frame.Intensity.Transform.Class Name": "cm_valuetransform_list",
+    ".ImageList.2.ImageTags.Acquisition.Frame.Intensity.Transform.Transform List.1.Class Name": "cm_valuetransform_affine",
+    ".ImageList.2.ImageTags.Acquisition.Frame.Intensity.Transform.Transform List.1.Offset": {
+      "dtype": "float64",
+      "value": 0.0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Frame.Intensity.Transform.Transform List.1.Scale": {
+      "dtype": "float64",
+      "value": 1.0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Frame.Intensity.Transform.Transform List.2.ADC Max": {
+      "dtype": "float64",
+      "value": 65535.0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Frame.Intensity.Transform.Transform List.2.ADC Min": {
+      "dtype": "float64",
+      "value": 0.0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Frame.Intensity.Transform.Transform List.2.Class Name": "cm_valuetransform_adc",
+    ".ImageList.2.ImageTags.Acquisition.Frame.Reference Images.Dark.Mean (counts)": {
+      "dtype": "float64",
+      "value": 128.5493085298733
+    },
+    ".ImageList.2.ImageTags.Acquisition.Frame.Reference Images.Dark.Standard Deviation (counts)": {
+      "dtype": "float64",
+      "value": 3.352436223025281
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Acquisition Write Flags": {
+      "dtype": "uint32",
+      "value": 4294967295
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Base Detector.Class Name": "cm_namedcameradetectorparameterset",
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Base Detector.Name": "default",
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Detector.continuous": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Detector.exposure (s)": {
+      "dtype": "float64",
+      "value": 1.0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Detector.hbin": {
+      "dtype": "int32",
+      "value": 1
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Detector.height": {
+      "dtype": "int32",
+      "value": 4096
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Detector.left": {
+      "dtype": "int32",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Detector.top": {
+      "dtype": "int32",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Detector.vbin": {
+      "dtype": "int32",
+      "value": 1
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Detector.width": {
+      "dtype": "int32",
+      "value": 4096
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Environment.Mode Name": "Imaging",
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Acquire Stack": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Acquisition Buffer Size": {
+      "dtype": "uint32",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Alignment Filter": "",
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Antiblooming": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Async Processing": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Async Readout": {
+      "dtype": "uint32",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Auto Save": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Binning": {
+      "dtype": "float64",
+      "shape": [
+        2
+      ],
+      "values": [
+        1.0,
+        1.0
+      ]
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Capture Duration": {
+      "dtype": "float64",
+      "value": 18.712310204
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.CCD Read Area": {
+      "dtype": "float64",
+      "shape": [
+        4
+      ],
+      "values": [
+        0.0,
+        0.0,
+        4096.0,
+        4096.0
+      ]
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.CCD Read Ports": {
+      "dtype": "uint32",
+      "value": 1
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Choose Number Of Frame Shutters Automatically": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Class Name": "cm_camera_highlevelparameters",
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Continuous Readout": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Corrections": {
+      "dtype": "uint32",
+      "value": 769
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Corrections Mask": {
+      "dtype": "uint32",
+      "value": 817
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Exposure (s)": {
+      "dtype": "float64",
+      "value": 1.0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Exposure Priority": {
+      "dtype": "uint32",
+      "value": 1
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Frame Exposure": {
+      "dtype": "float64",
+      "value": 0.04
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.HardwareCorrections": {
+      "dtype": "uint32",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Lookback Duration": {
+      "dtype": "float64",
+      "value": 0.0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Number Of Frame Shutters": {
+      "dtype": "uint32",
+      "value": 1
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Processing": "Gain Normalized",
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Quality Level": {
+      "dtype": "uint32",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Read Frame Style": {
+      "dtype": "uint32",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Read Mode": {
+      "dtype": "uint32",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Secondary Shutter Post Exposure Compensation (s)": {
+      "dtype": "float64",
+      "value": 0.0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Secondary Shutter Pre Exposure Compensation (s)": {
+      "dtype": "float64",
+      "value": 0.0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Shutter.Primary Shutter States": {
+      "dtype": "uint32",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Shutter.Primary Shutter States Mask": {
+      "dtype": "uint32",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Shutter.Secondary Shutter States": {
+      "dtype": "uint32",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Shutter.Secondary Shutter States Mask": {
+      "dtype": "uint32",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Shutter.Shutter Exposure": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Shutter.Shutter Index": {
+      "dtype": "uint32",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Shutter Post Exposure Compensation (s)": {
+      "dtype": "float64",
+      "value": 0.0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Shutter Pre Exposure Compensation (s)": {
+      "dtype": "float64",
+      "value": 0.0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Stack Format": {
+      "dtype": "uint32",
+      "value": 1
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Transform.Diagonal Flip": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Transform.Horizontal Flip": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.High Level.Transform.Vertical Flip": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Objects.1.Class Name": "cm_imgproc_finalcombine",
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Objects.1.Frame Combine Style": "Copy",
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Objects.1.Parameter 1": {
+      "dtype": "float64",
+      "value": 1.0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Objects.2.Class Name": "cm_stdviewerimagedisplayer",
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Objects.2.Do Auto Zoom": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Objects.2.Screen Relative Position": {
+      "dtype": "float64",
+      "shape": [
+        2
+      ],
+      "values": [
+        1.0,
+        0.0
+      ]
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Objects.2.Version": {
+      "dtype": "uint32",
+      "value": 33947648
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Objects.2.View Name": "Frame",
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Objects.2.Viewer Class": "acquire",
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Objects.2.Window Relative Position": {
+      "dtype": "float64",
+      "shape": [
+        2
+      ],
+      "values": [
+        1.0,
+        0.0
+      ]
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Objects.2.Zoom": {
+      "dtype": "float64",
+      "value": 1.0
+    },
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Parameter Set Name": "Record",
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Parameter Set Tag Path": "Imaging:Acquire:Record",
+    ".ImageList.2.ImageTags.Acquisition.Parameters.Version": {
+      "dtype": "uint32",
+      "value": 33947648
+    },
+    ".ImageList.2.ImageTags.DataBar.Acquisition Date": "25/05/2016",
+    ".ImageList.2.ImageTags.DataBar.Acquisition Time": "11:53:25",
+    ".ImageList.2.ImageTags.DataBar.Acquisition Time (OS)": {
+      "dtype": "float64",
+      "value": 1.3108647205802235e+17
+    },
+    ".ImageList.2.ImageTags.DataBar.Binning": {
+      "dtype": "uint32",
+      "value": 1
+    },
+    ".ImageList.2.ImageTags.DataBar.Collection Number": {
+      "dtype": "uint32",
+      "value": 3
+    },
+    ".ImageList.2.ImageTags.DataBar.Device Name": "OneView",
+    ".ImageList.2.ImageTags.DataBar.Exposure Number": {
+      "dtype": "uint32",
+      "value": 12188
+    },
+    ".ImageList.2.ImageTags.DataBar.Exposure Time (s)": {
+      "dtype": "float64",
+      "value": 1.0
+    },
+    ".ImageList.2.ImageTags.DataBar.Signal Name": "OneView",
+    ".ImageList.2.ImageTags.GMS Version.Created": "3.1.598.0",
+    ".ImageList.2.ImageTags.GMS Version.Saved": "3.1.598.0",
+    ".ImageList.2.ImageTags.Microscope Info.Actual Magnification": {
+      "dtype": "float64",
+      "value": 8553.138524489086
+    },
+    ".ImageList.2.ImageTags.Microscope Info.Cs(mm)": {
+      "dtype": "float64",
+      "value": 0.0
+    },
+    ".ImageList.2.ImageTags.Microscope Info.Emission Current (µA)": {
+      "dtype": "float64",
+      "value": 0.0
+    },
+    ".ImageList.2.ImageTags.Microscope Info.Formatted Actual Mag": "8.6kx",
+    ".ImageList.2.ImageTags.Microscope Info.Formatted Indicated Mag": "6kx",
+    ".ImageList.2.ImageTags.Microscope Info.Formatted Voltage": "80kV",
+    ".ImageList.2.ImageTags.Microscope Info.HT Extrapolated": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Microscope Info.Illumination Mode": "TEM",
+    ".ImageList.2.ImageTags.Microscope Info.Imaging Mode": "MAG1",
+    ".ImageList.2.ImageTags.Microscope Info.Indicated Magnification": {
+      "dtype": "float64",
+      "value": 6000.0
+    },
+    ".ImageList.2.ImageTags.Microscope Info.Magnification Interpolated": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".ImageList.2.ImageTags.Microscope Info.Name": "JEOL COM",
+    ".ImageList.2.ImageTags.Microscope Info.Operation Mode": "IMAGING",
+    ".ImageList.2.ImageTags.Microscope Info.Operation Mode Type": {
+      "dtype": "uint16",
+      "value": 1
+    },
+    ".ImageList.2.ImageTags.Microscope Info.Probe Current (nA)": {
+      "dtype": "float64",
+      "value": 0.0
+    },
+    ".ImageList.2.ImageTags.Microscope Info.Probe Size (nm)": {
+      "dtype": "float64",
+      "value": 0.0
+    },
+    ".ImageList.2.ImageTags.Microscope Info.Stage Position.Stage Alpha": {
+      "dtype": "float64",
+      "value": 0.05000000074505806
+    },
+    ".ImageList.2.ImageTags.Microscope Info.Stage Position.Stage Beta": {
+      "dtype": "float64",
+      "value": 0.0
+    },
+    ".ImageList.2.ImageTags.Microscope Info.Stage Position.Stage X": {
+      "dtype": "float64",
+      "value": -491.1071875
+    },
+    ".ImageList.2.ImageTags.Microscope Info.Stage Position.Stage Y": {
+      "dtype": "float64",
+      "value": -246.445796875
+    },
+    ".ImageList.2.ImageTags.Microscope Info.Stage Position.Stage Z": {
+      "dtype": "float64",
+      "value": 11.1925
+    },
+    ".ImageList.2.ImageTags.Microscope Info.Voltage": {
+      "dtype": "float64",
+      "value": 80000.0
+    },
+    ".ImageList.2.ImageTags.Session Info.Items.1.Data Type": {
+      "dtype": "int32",
+      "value": 20
+    },
+    ".ImageList.2.ImageTags.Session Info.Items.1.Label": "Specimen",
+    ".ImageList.2.ImageTags.Session Info.Items.1.Precision": {
+      "dtype": "uint32",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Session Info.Items.1.Tag path": "Session Info:Specimen",
+    ".ImageList.2.ImageTags.Session Info.Items.1.Units": "",
+    ".ImageList.2.ImageTags.Session Info.Items.1.Value": "",
+    ".ImageList.2.ImageTags.Session Info.Items.2.Data Type": {
+      "dtype": "int32",
+      "value": 20
+    },
+    ".ImageList.2.ImageTags.Session Info.Items.2.Label": "Operator",
+    ".ImageList.2.ImageTags.Session Info.Items.2.Precision": {
+      "dtype": "uint32",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Session Info.Items.2.Tag path": "Session Info:Operator",
+    ".ImageList.2.ImageTags.Session Info.Items.2.Units": "",
+    ".ImageList.2.ImageTags.Session Info.Items.2.Value": "",
+    ".ImageList.2.ImageTags.Session Info.Items.3.Data Type": {
+      "dtype": "int32",
+      "value": 20
+    },
+    ".ImageList.2.ImageTags.Session Info.Items.3.Label": "Microscope",
+    ".ImageList.2.ImageTags.Session Info.Items.3.Precision": {
+      "dtype": "uint32",
+      "value": 0
+    },
+    ".ImageList.2.ImageTags.Session Info.Items.3.Tag path": "Session Info:Microscope",
+    ".ImageList.2.ImageTags.Session Info.Items.3.Units": "",
+    ".ImageList.2.ImageTags.Session Info.Items.3.Value": "",
+    ".ImageList.2.ImageTags.Session Info.Microscope": "",
+    ".ImageList.2.ImageTags.Session Info.Operator": "",
+    ".ImageList.2.ImageTags.Session Info.Specimen": "",
+    ".ImageList.2.Name": "SD017-16 - B10 _0003",
+    ".ImageList.2.UniqueID.1": {
+      "dtype": "uint32",
+      "value": 598742907
+    },
+    ".ImageList.2.UniqueID.2": {
+      "dtype": "uint32",
+      "value": 758984630
+    },
+    ".ImageList.2.UniqueID.3": {
+      "dtype": "uint32",
+      "value": 1680031894
+    },
+    ".ImageList.2.UniqueID.4": {
+      "dtype": "uint32",
+      "value": 1668052349
+    },
+    ".ImageSourceList.1.ClassName": "ImageSource:Simple",
+    ".ImageSourceList.1.Id.1": {
+      "dtype": "uint32",
+      "value": 0
+    },
+    ".ImageSourceList.1.ImageRef": {
+      "dtype": "uint32",
+      "value": 1
+    },
+    ".InImageMode": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".LayoutType": "Camera",
+    ".MinVersionList.1.RequiredVersion": {
+      "dtype": "uint32",
+      "value": 50659328
+    },
+    ".NextDocumentObjectID": {
+      "dtype": "uint32",
+      "value": 11
+    },
+    ".Page Behavior.DoIntegralZoom": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".Page Behavior.DrawMargins": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".Page Behavior.DrawPaper": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".Page Behavior.IsFixedInPageMode": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".Page Behavior.IsZoomedToWindow": {
+      "dtype": "uint8",
+      "value": 1
+    },
+    ".Page Behavior.LayedOut": {
+      "dtype": "uint8",
+      "value": 0
+    },
+    ".Page Behavior.PageTransform.Offset": {
+      "dtype": "float64",
+      "shape": [
+        2
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    },
+    ".Page Behavior.PageTransform.Scale": {
+      "dtype": "float64",
+      "shape": [
+        2
+      ],
+      "values": [
+        1.0,
+        1.0
+      ]
+    },
+    ".Page Behavior.RestoreImageDisplayBounds": {
+      "dtype": "float64",
+      "shape": [
+        4
+      ],
+      "values": [
+        0.0,
+        0.0,
+        4096.0,
+        4096.0
+      ]
+    },
+    ".Page Behavior.RestoreImageDisplayID": {
+      "dtype": "uint32",
+      "value": 8
+    },
+    ".Page Behavior.TargetDisplayID": {
+      "dtype": "uint32",
+      "value": 4294967295
+    },
+    ".PageSetup.General": {
+      "dtype": "float64",
+      "shape": [
+        8
+      ],
+      "values": [
+        1.0,
+        268435556.0,
+        21590.0,
+        27940.0,
+        2500.0,
+        2500.0,
+        -2500.0,
+        -2500.0
+      ]
+    },
+    ".PageSetup.Win32": "\b\u0000\u0000\u0000VT\u0000\u0000$m\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ä\t\u0000\u0000Ä\t\u0000\u0000Ä\t\u0000\u0000Ä\t\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0001\u0000\u0012\u0000",
+    ".PageSetup.Win32_DevModeW.arraySize": {
+      "dtype": "uint64",
+      "value": 1076
+    },
+    ".PageSetup.Win32_DevModeW.arrayOffset": 67500296,
+    ".PageSetup.Win32_DevModeW.arrayType": {
+      "dtype": "uint32",
+      "value": 10
+    },
+    ".PageSetup.Win32_DevModeW": "Array unread. Encoded type = 10",
+    ".PageSetup.Win32_DevNamesW": "\u0004\u0000\"\u0000@\u0000\u0000\u0000M\u0000i\u0000c\u0000r\u0000o\u0000s\u0000o\u0000f\u0000t\u0000 \u0000X\u0000P\u0000S\u0000 \u0000D\u0000o\u0000c\u0000u\u0000m\u0000e\u0000n\u0000t\u0000 \u0000W\u0000r\u0000i\u0000t\u0000e\u0000r\u0000\u0000\u0000M\u0000i\u0000c\u0000r\u0000o\u0000s\u0000o\u0000f\u0000t\u0000 \u0000X\u0000P\u0000S\u0000 \u0000D\u0000o\u0000c\u0000u\u0000m\u0000e\u0000n\u0000t\u0000 \u0000W\u0000r\u0000i\u0000t\u0000e\u0000r\u0000\u0000\u0000X\u0000P\u0000S\u0000P\u0000o\u0000r\u0000t\u0000:\u0000\u0000\u0000",
+    ".Thumbnails.1.ImageIndex": {
+      "dtype": "uint32",
+      "value": 0
+    },
+    ".Thumbnails.1.SourceSize_Pixels": {
+      "dtype": "float64",
+      "shape": [
+        2
+      ],
+      "values": [
+        467.0,
+        467.0
+      ]
+    },
+    ".WindowPosition": {
+      "dtype": "float64",
+      "shape": [
+        4
+      ],
+      "values": [
+        535.0,
+        491.0,
+        1002.0,
+        958.0
+      ]
+    }
+  }
+}
